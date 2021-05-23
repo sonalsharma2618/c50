@@ -1,0 +1,13 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+.header{
+    background-color: burlywood;
+}
+.header1{
+    background-color: rgb(135, 209, 222);
+}
